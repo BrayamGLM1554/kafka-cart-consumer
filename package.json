@@ -1,0 +1,17 @@
+{
+  "name": "kafka-cart-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ioredis": "^5.7.0",
+    "kafkajs": "^2.2.4",
+    "mongodb": "^5.9.2"
+  }
+}
